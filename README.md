@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bob-ferson
 - 👀 I’m interested in full stack developpement
-- 🌱 I’m currently learning réact.js and java
+- 🌱 I’m currently learning react.js and java
 - 💞️ I’m looking to collaborate on main projets
 - 📫 How to reach me 
 
